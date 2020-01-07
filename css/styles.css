@@ -1,0 +1,12 @@
+#homepage{
+  background-image: url('https://www.sdxcentral.com/cdn-cgi/image/w=748,h=374,fit=scale-down,f=auto,q=85/https://www.sdxcentral.com/wp-content/uploads/2019/10/ATT-Abandons-Puerto-Rico-and-U.S.-Virgin-Islands-1.jpg');
+  background-size: 100% 100%;
+}
+
+html {
+  height: 100%;
+}
+
+.jumbotron {
+  margin: 50px 20px 0 20px;
+}
