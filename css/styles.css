@@ -10,3 +10,26 @@ html {
 .jumbotron {
   margin: 50px 20px 0 20px;
 }
+
+#accom {
+  background-image: url("https://www.tripsavvy.com/thmb/LXicRC7jkLxqCtmdiDvcU5Xhers=/1500x1036/filters:no_upscale():max_bytes(150000):strip_icc()/BeachViewRoom-cd69ecf5318247589531b6c621216bb6.jpg");
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+#actvt {
+  background-image: url("https://islandsofpuertorico.com/images/san-juan-puerto-rico-attractions-places-visit.jpg");
+}
+
+#pictures {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSk7tujwuCDp6CgTr8mN0uqFK26UnVxX48WFZspUv-N9iShmwp&s");
+  background-size: 50% 50%;
+}
